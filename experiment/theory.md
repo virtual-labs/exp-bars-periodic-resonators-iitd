@@ -107,7 +107,6 @@ First row of eq- <strong>Error! Reference source not found.</strong>
 
 <img src="images/th30.png" style="height:65px;" draggable="false">
 
-
 So, the dynamic amplification factor 
 
 <img src="images/th19.png" style="height:190px;" draggable="false">
