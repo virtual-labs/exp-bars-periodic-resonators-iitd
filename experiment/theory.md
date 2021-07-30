@@ -102,7 +102,7 @@ where<img src="images/th27.png" style="height:50px;" draggable="false">
 
 First row of eq- <strong>Error! Reference source not found.</strong>
 
-<img src="images/th18.png" style="height:270px;" draggable="false">
+<img src="images/th18.png" style="height:270px;" draggable="false"><br>
 
 
 <img src="images/th30.png" style="height:65px;" draggable="false">
