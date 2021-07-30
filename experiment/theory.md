@@ -97,7 +97,7 @@ Last row of eq- <strong>Error! Reference source not found.</strong> gives
 <img src="images/th17.png" style="height:290px;" draggable="false">
 
 
-where <img src="images/th27.png" style="height:50px;" draggable="false">
+where<img src="images/th27.png" style="height:50px;" draggable="false">
 
 
 First row of eq- <strong>Error! Reference source not found.</strong>
@@ -137,9 +137,7 @@ The frequency of the system is det ( K - &#969;<sup>2</sup>M) = 0
 
 <img src="images/th25.png" style="height:200px;" draggable="false">
 
-Assume the frequency of each spring mass system is <img src="images/th28.png" style="height:50px;" draggable="false">and ratio of two springs is <img src="images/th29.png" style="height:50px;" draggable="false">
-
-So, 
+Assume the frequency of each spring mass system is <img src="images/th28.png" style="height:50px;" draggable="false">and ratio of two springs is <img src="images/th29.png" style="height:50px;" draggable="false">So, 
 
 <img src="images/th26.png" style="height:200px;" draggable="false">
 
