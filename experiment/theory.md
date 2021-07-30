@@ -96,13 +96,17 @@ Last row of eq- <strong>Error! Reference source not found.</strong> gives
 
 <img src="images/th17.png" style="height:290px;" draggable="false">
 
-<img src="images/th27.png" style="height:50px;" draggable="false">
+
+where <img src="images/th27.png" style="height:50px;" draggable="false">
+
 
 First row of eq- <strong>Error! Reference source not found.</strong>
 
 <img src="images/th18.png" style="height:270px;" draggable="false">
 
+
 <img src="images/th30.png" style="height:65px;" draggable="false">
+
 
 So, the dynamic amplification factor 
 
@@ -133,11 +137,7 @@ The frequency of the system is det ( K - &#969;<sup>2</sup>M) = 0
 
 <img src="images/th25.png" style="height:200px;" draggable="false">
 
-Assume the frequency of each spring mass system is
-<img src="images/th28.png" style="height:50px;" draggable="false">
-
-and ratio of two springs is
-<img src="images/th29.png" style="height:50px;" draggable="false">
+Assume the frequency of each spring mass system is <img src="images/th28.png" style="height:50px;" draggable="false">and ratio of two springs is <img src="images/th29.png" style="height:50px;" draggable="false">
 
 So, 
 
