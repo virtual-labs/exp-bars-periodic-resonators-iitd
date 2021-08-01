@@ -48,8 +48,7 @@ So, kinetic energy in mass-2
 
 <img src="images/th9.png" style="height:175px;" draggable="false">
 
-So, energy distribution ratio
-RD
+So, energy distribution ratio R<sub>D</sub>
 
 <img src="images/th10.png" style="height:145px;" draggable="false">
 
@@ -136,7 +135,9 @@ The frequency of the system is det ( K - &#969;<sup>2</sup>M) = 0
 
 <img src="images/th25.png" style="height:200px;" draggable="false">
 
-Assume the frequency of each spring mass system is <img src="images/th28.png" style="height:50px;" draggable="false">and ratio of two springs is <img src="images/th29.png" style="height:50px;" draggable="false">So, 
+Assume the frequency of each spring mass system is <img src="images/th28.png" style="height:50px;" draggable="false">and ratio of two springs is <img src="images/th29.png" style="height:50px;" draggable="false">
+
+So, 
 
 <img src="images/th26.png" style="height:200px;" draggable="false">
 
