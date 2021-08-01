@@ -1,0 +1,197 @@
+html
+
+{
+
+    -moz-user-select     : none;
+
+    -khtml-user-select   : none;
+
+    -webkit-user-select  : none;
+
+    -o-user-select       : none;
+
+    user-select          : none;
+
+}
+
+
+
+#simscreen
+
+{
+
+	position: relative;
+
+	left:0px;
+
+	top:0px;
+
+	height: 600px; 
+
+	width:800px;
+
+	border:solid 1px;
+
+	background-color: #dce5ec;
+}
+
+
+
+#title{
+
+	position:relative;
+
+	left: 0px;
+
+	top: 0px;
+
+	height:40px;
+
+	font-size: 20px;
+
+	text-align:center;
+
+	background-color: #2150a0;
+
+	font-family: verdana;
+
+	color: White;
+
+	text-transform: uppercase; 
+
+}
+
+
+
+#title h3
+
+{
+
+	padding-top: 7px;
+
+	margin:0px;
+
+}
+
+
+
+.simsubscreen
+
+{
+
+	position:absolute;
+	left: 10px;
+    top: 40px;
+    height: 558px;
+    width: 788px;
+	background-color: #dce5ec;
+	
+}
+
+
+
+.incanvas
+
+{
+
+	margin:10px 0 0 10px;
+
+	padding:0;
+
+}
+
+
+
+#nextButton
+
+{
+
+	position:absolute;
+
+	left:750px;
+
+	top:530px;
+
+	cursor:pointer;
+
+}
+
+
+
+.circlebg
+
+{
+
+	border-radius:20%;
+
+	padding: 0px 2px 0px 2px;
+
+	font-size:20px;
+
+	color:#FFF;
+
+	text-align:center;
+
+	background: #2150a0;
+
+}
+
+
+
+.steptext
+
+{
+
+	display:inline;
+
+	font-size:14px;
+
+}
+
+
+
+/* canvas 1 */
+
+/* fixhand 1*/
+/* Chrome, Safari, Opera */
+
+@-webkit-keyframes fixhand1
+
+{
+
+	0% {transform:rotate(0deg);}
+
+	10%{transform:rotate(-55deg);}
+
+	20% {transform:rotate(0deg);}
+
+}
+
+
+/* Standard syntax */
+
+@keyframes fixhand1
+
+{
+
+	0% {transform:rotate(0deg);}
+
+	10%{transform:rotate(-55deg);}
+
+	20% {transform:rotate(0deg);}
+
+}
+
+/*start Blinking*/
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+  color: #083685;
+}
+
+@keyframes blinker {
+  50% {
+  	color: #2150a0;
+    opacity: 0;
+  }
+}
